@@ -1,0 +1,10 @@
+c:\users\martin\documents\visual studio 2013\Projects\copym3u\copym3u\bin\Debug\copym3u.exe.config
+c:\users\martin\documents\visual studio 2013\Projects\copym3u\copym3u\bin\Debug\copym3u.exe
+c:\users\martin\documents\visual studio 2013\Projects\copym3u\copym3u\bin\Debug\copym3u.pdb
+c:\users\martin\documents\visual studio 2013\Projects\copym3u\copym3u\bin\Debug\copym3u.xml
+c:\users\martin\documents\visual studio 2013\Projects\copym3u\copym3u\obj\Debug\copym3u.frmMain.resources
+c:\users\martin\documents\visual studio 2013\Projects\copym3u\copym3u\obj\Debug\copym3u.Resources.resources
+c:\users\martin\documents\visual studio 2013\Projects\copym3u\copym3u\obj\Debug\copym3u.vbproj.GenerateResource.Cache
+c:\users\martin\documents\visual studio 2013\Projects\copym3u\copym3u\obj\Debug\copym3u.exe
+c:\users\martin\documents\visual studio 2013\Projects\copym3u\copym3u\obj\Debug\copym3u.xml
+c:\users\martin\documents\visual studio 2013\Projects\copym3u\copym3u\obj\Debug\copym3u.pdb
